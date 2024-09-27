@@ -1,0 +1,1 @@
+Welcome! This repository will be the home of any Java projects I develop. I hope to learn more about the world of software engineering through this programming language with the assistance of the generous communities that are available online. 
